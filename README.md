@@ -22,7 +22,7 @@ npm run dev        # development (with nodemon)
 npm start          # production
 ```
 
-Server runs at **http://localhost:5000**
+Server runs at **https://zestora-1-wo1p.onrender.com**
 
 ---
 
